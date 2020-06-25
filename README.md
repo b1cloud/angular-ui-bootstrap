@@ -1,5 +1,4 @@
-# Project Status
-Fork of [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap)
+# Fork from [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap)
 
 ---
 
